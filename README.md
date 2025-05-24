@@ -23,3 +23,6 @@ This Power BI dashboard was developed to transform raw Olympic data into meaning
 1. Download the `.pbix` file from this repository.
 2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Interact with the dashboard to explore the Olympic dataset.
+
+## 🖼️ Screenshots
+![Dashboard Screenshot](screenshot1.png)
